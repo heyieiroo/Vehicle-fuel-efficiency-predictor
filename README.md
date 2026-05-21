@@ -1,5 +1,7 @@
 # Construirea si explorarea unui dataset tabelar
 
+Realizat de Patraș Ionuț-Marcelin
+
 Tema abordata este o **problema de regresie**, in care ne propunem sa prezicem **consumul (L/100km) al unei masini** pe baza unor caracteristici tehnice si structurale.
 
 <p align="center">
